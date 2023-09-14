@@ -1,6 +1,10 @@
-# Instagram-Clone
+## Instagram-Clone
 
- Instagram-Like Database Schema
+
+#Instagram-Like Database Schema
+
+##Data Model
+![image](https://github.com/saud-py/Instagram-Clone/assets/57790931/520be3b1-1c2f-42c6-85c1-4d6e6e6c6fe1)
 
 This repository contains the SQL database schema for an Instagram-like social media platform. The schema defines the structure of the database, including tables, relationships, and key attributes.
 
