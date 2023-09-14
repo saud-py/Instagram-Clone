@@ -1,6 +1,6 @@
 # Instagram-Clone
 
-# Instagram-Like Database Schema
+ Instagram-Like Database Schema
 
 This repository contains the SQL database schema for an Instagram-like social media platform. The schema defines the structure of the database, including tables, relationships, and key attributes.
 
@@ -59,7 +59,3 @@ This database schema serves as the foundation for an Instagram-like social media
 ## Contributing
 
 If you wish to contribute to this project, feel free to fork the repository, make changes, and submit pull requests. Contributions and improvements are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
